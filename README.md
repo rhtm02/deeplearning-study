@@ -7,6 +7,6 @@ Date | Paper | Presenter | Links
 
 
 ### Study Member
-* [Hyungjun Lee](http://www.github.com/utilForever)
+* [Hyungjun Lee](https://github.com/rhtm02)
 * [Injae Lee](https://github.com/oliver0922)
 
