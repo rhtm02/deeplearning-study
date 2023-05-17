@@ -8,12 +8,12 @@ Date | Paper | Presenter | Links
 
 
 Read List
-Paper | Presenter | Links
+Paper | Conference | Links
 :---: | :---: | :---:
-Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework, ECCV 2022. | Hyungjun Lee | [paper](https://arxiv.org/abs/2203.11991)
-Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation, CVPR 2021. | Hyungjun Lee | [paper](https://arxiv.org/abs/2012.06815)
-Continual Test-Time Domain Adaptation, CVPR 2022. | Hyungjun Lee | [paper](https://arxiv.org/abs/2203.13591)
-EcoTTA: Memory-Efficient Continual Test-time Adaptation via Self-distilled Regularization, CVPR 2023. | Hyungjun Lee | [paper](https://arxiv.org/abs/2303.01904)
+Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework. | ECCV 2022 | [paper](https://arxiv.org/abs/2203.11991)
+Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation. | CVPR 2021 | [paper](https://arxiv.org/abs/2012.06815)
+Continual Test-Time Domain Adaptation. | CVPR 2022 | [paper](https://arxiv.org/abs/2203.13591)
+EcoTTA: Memory-Efficient Continual Test-time Adaptation via Self-distilled Regularization. | CVPR 2023 | [paper](https://arxiv.org/abs/2303.01904)
 
 ### Study Member
 * [Hyungjun Lee](https://github.com/rhtm02)
