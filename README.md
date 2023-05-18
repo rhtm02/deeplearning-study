@@ -26,3 +26,4 @@ DINOv2: Learning Robust Visual Features without Supervision | arXiv 2023  | [pap
 * [Hyungjun Lee](https://github.com/rhtm02)
 * [Injae Lee](https://github.com/oliver0922)
 * [Sunmyung Lee](https://github.com/leesunmyung)
+* [Wonjune Kim](https://github.com/culigan3186)
