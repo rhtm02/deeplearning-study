@@ -7,7 +7,7 @@ Date | Paper | Presenter | Links
 
 
 
-Read List
+Paper List
 Paper | Conference | Links
 :---: | :---: | :---:
 Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework. | ECCV 2022 | [paper](https://arxiv.org/abs/2203.11991)
