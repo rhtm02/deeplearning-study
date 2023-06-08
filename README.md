@@ -18,7 +18,7 @@ The Forward-Forward Algorithm: Some Preliminary Investigations | arXiv 2022 | [p
 Segment Anything | arXiv 2023 | [paper](https://arxiv.org/abs/2304.02643)
 How Do Vision Transformers Work? | ICLR 2022  | [paper](https://arxiv.org/abs/2202.06709)
 DINOv2: Learning Robust Visual Features without Supervision | arXiv 2023  | [paper](https://arxiv.org/abs/2304.07193)
-
+Learning Loss for Active Learning | CVPR 2019 | [paper](https://arxiv.org/abs/1905.03677)
 
 
 ### Study Member
