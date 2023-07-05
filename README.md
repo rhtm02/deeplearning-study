@@ -18,7 +18,7 @@ Continual Test-Time Domain Adaptation. | CVPR 2022 | [paper](https://arxiv.org/a
 EcoTTA: Memory-Efficient Continual Test-time Adaptation via Self-distilled Regularization. | CVPR 2023 | [paper](https://arxiv.org/abs/2303.01904)
 Image as Set of Points.  | ICLR 2023 | [paper](https://arxiv.org/abs/2303.01494)
 TOWARDS BETTER SELECTIVE CLASSIFICATION | ICLR 2023 | [paper](https://openreview.net/forum?id=5gDz_yTcst)
-Selective Classification for Deep Neural Networks | Arxiv 2017 | [paper](https://arxiv.org/abs/1705.08500)
+Selective Classification for Deep Neural Networks | Neurlp 2017 | [paper](https://papers.nips.cc/paper_files/paper/2017/hash/4a8423d5e91fda00bb7e46540e2b0cf1-Abstract.html)
 The Forward-Forward Algorithm: Some Preliminary Investigations | arXiv 2022 | [paper](https://arxiv.org/abs/2212.13345)
 Segment Anything | arXiv 2023 | [paper](https://arxiv.org/abs/2304.02643)
 How Do Vision Transformers Work? | ICLR 2022  | [paper](https://arxiv.org/abs/2202.06709)
