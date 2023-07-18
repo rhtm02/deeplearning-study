@@ -7,6 +7,7 @@ Date | Paper | Presenter | Links
 6/08 | Deformable DETR: Deformable Transformers for End-to-End Object Detection, ICLR 2021. | In-Jae Lee | [paper](https://arxiv.org/abs/2010.04159) [review](https://confused-winter-bd1.notion.site/DEFORMABLE-DETR-DEFORMABLE-TRANSFORMERS-FOR-END-TO-END-OBJECT-DETECTION-e34951da4f7c43d4814f9faee915c8c9?pvs=25)
 6/22 | Active Learning for Deep Object Detection, VISAPP 2019. | Wonjune Kim | [paper](https://arxiv.org/abs/1809.09875) [review](https://inexpensive-hospital-30f.notion.site/Active-Learning-for-Deep-Object-Detection-8392c8d27b8c4f948cf30ff8c9758b4a?pvs=4)
 7/04 | DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion, CVPR 2022. | Sunmyung Lee | [paper](https://arxiv.org/abs/2111.11326) [review](https://tabby-shoemaker-cdd.notion.site/DyTox-Transformers-for-Continual-Learning-with-DYnamic-TOken-eXpansion-56d005783b4441bf98ef1915482d3bcb?pvs=4)
+7/18 | Masked Autoencoders Are Scalable Vision Learners, CVPR 2022. | Chaehee Song | [paper](https://arxiv.org/abs/2111.06377) [review]()
 
 Paper List
 Paper | Conference | Links
@@ -31,3 +32,4 @@ Learning Loss for Active Learning | CVPR 2019 | [paper](https://arxiv.org/abs/19
 * [Injae Lee](https://github.com/oliver0922)
 * [Sunmyung Lee](https://github.com/leesunmyung)
 * [Wonjune Kim](https://github.com/culigan3186)
+* [Chaehee Song](https://github.com/chssong)
