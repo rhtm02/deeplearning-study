@@ -8,7 +8,7 @@ Date | Paper | Presenter | Links
 6/22 | Active Learning for Deep Object Detection, VISAPP 2019. | Wonjune Kim | [paper](https://arxiv.org/abs/1809.09875) [review](https://inexpensive-hospital-30f.notion.site/Active-Learning-for-Deep-Object-Detection-8392c8d27b8c4f948cf30ff8c9758b4a?pvs=4)
 7/04 | DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion, CVPR 2022. | Sunmyung Lee | [paper](https://arxiv.org/abs/2111.11326) [review](https://tabby-shoemaker-cdd.notion.site/DyTox-Transformers-for-Continual-Learning-with-DYnamic-TOken-eXpansion-56d005783b4441bf98ef1915482d3bcb?pvs=4)
 7/18 | Masked Autoencoders Are Scalable Vision Learners, CVPR 2022. | Chaehee Song | [paper](https://arxiv.org/abs/2111.06377) [review](https://www.notion.so/Masked-Autoencoders-Are-Scalable-Vision-Learners-ffd77b71875e4d59888f4b06b050a37f?pvs=4)
-8/8 | Selective Classification for Deep Neural Networks, Neurlp 2017. | Hyungjun Lee | [paper]([https://arxiv.org/abs/2111.06377](https://papers.nips.cc/paper_files/paper/2017/file/4a8423d5e91fda00bb7e46540e2b0cf1-Paper.pdf)) [review](https://www.notion.so/notaai/Selective-Classification-for-Deep-Neural-Networks-c9504a8485964ba88011ba317f212805?pvs=4)
+8/8 | Selective Classification for Deep Neural Networks, Neurlp 2017. | Hyungjun Lee | [paper](https://papers.nips.cc/paper_files/paper/2017/hash/4a8423d5e91fda00bb7e46540e2b0cf1-Abstract.html) [review](https://notaai.notion.site/Selective-Classification-for-Deep-Neural-Networks-c9504a8485964ba88011ba317f212805?pvs=4)
 
 Paper List
 Paper | Conference | Links
