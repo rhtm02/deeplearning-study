@@ -11,8 +11,7 @@ Date | Paper | Presenter | Links
 8/8 | Selective Classification for Deep Neural Networks, Neurlp 2017. | Hyungjun Lee | [paper](https://papers.nips.cc/paper_files/paper/2017/hash/4a8423d5e91fda00bb7e46540e2b0cf1-Abstract.html) [review](https://notaai.notion.site/Selective-Classification-for-Deep-Neural-Networks-c9504a8485964ba88011ba317f212805?pvs=4)
 8/22 | Active Learning for Deep Object Detection via Probabilistic Modeling, ICCV 2021 | Wonjune Kim | [paper](https://arxiv.org/abs/2103.16130) [review](https://inexpensive-hospital-30f.notion.site/Active-Learning-for-Deep-Object-Detection-via-Probabilistic-Modeling-5046c072c60c4d7494605e5e3518a983?pvs=4)
 9/12 | BEiT: BERT Pre-Training of Image Transformers, ICLR 2022 | Chaehee Song | [paper](https://arxiv.org/abs/2106.08254) [review](https://rose-speedwell-00f.notion.site/BEiT-BERT-Pre-Training-of-Image-Transformers-06301a5997ce4174a248dda8a4baea0c?pvs=4)
-10/24 | Image as Set of Points, ICLR 2023(Oral) | In-Jae Lee | [paper](https://arxiv.org/abs/2303.01494) [review]
-(https://confused-winter-bd1.notion.site/Image-as-Set-of-Points-fe3375606d614a7c9beb7597cbf3f201?pvs=4)
+10/24 | Image as Set of Points, ICLR 2023(Oral) | In-Jae Lee | [paper](https://arxiv.org/abs/2303.01494) [review](https://confused-winter-bd1.notion.site/Image-as-Set-of-Points-fe3375606d614a7c9beb7597cbf3f201?pvs=4)
 
 Paper List
 Paper | Conference | Links
