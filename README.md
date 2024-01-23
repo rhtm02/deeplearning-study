@@ -13,7 +13,7 @@ Date | Paper | Presenter | Links
 9/12 | BEiT: BERT Pre-Training of Image Transformers, ICLR 2022 | Chaehee Song | [paper](https://arxiv.org/abs/2106.08254) [review](https://rose-speedwell-00f.notion.site/BEiT-BERT-Pre-Training-of-Image-Transformers-06301a5997ce4174a248dda8a4baea0c?pvs=4)
 10/24 | Image as Set of Points, ICLR 2023(Oral) | In-Jae Lee | [paper](https://arxiv.org/abs/2303.01494) [review](https://confused-winter-bd1.notion.site/Image-as-Set-of-Points-fe3375606d614a7c9beb7597cbf3f201?pvs=4)
 11/21 | Learning Transferable Visual Models From Natural Language Supervision, ICML 2021 | Sunmyung Lee | [paper](https://arxiv.org/abs/2103.00020) [review](https://tabby-shoemaker-cdd.notion.site/Learning-Transferable-Visual-Models-from-Natural-Language-Supervision-cc39b00a20d34814baf5c40b9c053af2?pvs=4)
-
+01/23 | SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving, ICCV 2023 | Wonjune Kim | [paper](https://arxiv.org/abs/2303.09551) [review](https://inexpensive-hospital-30f.notion.site/SurroundOcc-Multi-Camera-3D-Occupancy-Prediction-for-Autonomous-Driving-23773fc0a535422982531e97f3316679)
 Paper List
 Paper | Conference | Links
 :---: | :---: | :---:
